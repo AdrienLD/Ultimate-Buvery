@@ -1,3 +1,7 @@
+#   Author  :   Adrien LD
+#   Date    :   26/10/2021
+#   Desc    :   Ultimate Buvery
+
 from tkinter import * 
 from PIL import Image, ImageTk
 from time import *

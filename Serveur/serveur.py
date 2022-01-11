@@ -1,4 +1,8 @@
-# coding: utf-8 
+#   Author  :   Adrien LD
+#   Date    :   26/10/2021
+#   Desc    :   Server - Ultimate Buvery
+
+
 from random import *
 import socket
 import threading
